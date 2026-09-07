@@ -1,6 +1,6 @@
-# OmniAes
+# OmniAes — Aesthetic Styles Knowledge Base
 
-A knowledge base of **1,040 aesthetic styles**, each summarized into a structured SKILL.md document derived from [Aesthetics Wiki](https://aesthetics.fandom.com).
+OmniAes is an open knowledge base of **1,040 aesthetic styles** (互联网美学 / 视觉风格 / 美学百科), each summarized into a structured `SKILL.md` document derived from [Aesthetics Wiki](https://aesthetics.fandom.com). Every entry documents a style's color palette, key motifs, mood, generation guidance, and how to tell it apart from visually similar styles — useful for image generation, style classification, visual retrieval, and research.
 
 ## What's Inside
 
@@ -14,7 +14,36 @@ A knowledge base of **1,040 aesthetic styles**, each summarized into a structure
 
 All images are AI-generated from prompts based on each style's `SKILL.md`.
 
-![Moodboard](assets/moodboard.png)
+![OmniAes aesthetic style moodboard](assets/moodboard.png)
+
+## Popular Aesthetics
+
+Quick links to the most-searched styles. Each links to its full `SKILL.md`.
+
+### Internet & Retro-Future
+[Y2K Futurism](aes/Y2K_Futurism/SKILL.md) · [Neo-Y2K](aes/Neo-Y2K/SKILL.md) · [Y3K](aes/Y3K/SKILL.md) · [Vaporwave](aes/Vaporwave/SKILL.md) · [Synthwave](aes/Synthwave/SKILL.md) · [Signalwave](aes/Signalwave/SKILL.md) · [Frutiger Aero](aes/Frutiger_Aero/SKILL.md) · [Frutiger Eco](aes/Frutiger_Eco/SKILL.md) · [Liminal Space](aes/Liminal_Space/SKILL.md) · [Webcore](aes/Webcore/SKILL.md) · [Glitchcore](aes/Glitchcore/SKILL.md) · [Dreamcore](aes/Dreamcore/SKILL.md) · [Weirdcore](aes/Weirdcore/SKILL.md) · [Traumacore](aes/Traumacore/SKILL.md)
+
+### Academia & Cozy
+[Dark Academia](aes/Dark_Academia/SKILL.md) · [Light Academia](aes/Light_Academia/SKILL.md) · [Cottagecore](aes/Cottagecore/SKILL.md) · [Goblincore](aes/Goblincore/SKILL.md) · [Cabincore](aes/Cabincore/SKILL.md) · [Cottagegoth](aes/Cottagegoth/SKILL.md)
+
+### Punk & Sci-Fi
+[Cyberpunk](aes/Cyberpunk/SKILL.md) · [Steampunk](aes/Steampunk/SKILL.md) · [Dieselpunk](aes/Dieselpunk/SKILL.md) · [Atompunk](aes/Atompunk/SKILL.md) · [Solarpunk](aes/Solarpunk/SKILL.md) · [Biopunk](aes/Biopunk/SKILL.md) · [Aetherpunk](aes/Aetherpunk/SKILL.md) · [Afrofuturism](aes/Afrofuturism/SKILL.md) · [Retrofuturism](aes/Retrofuturism/SKILL.md)
+
+### Cute & Kawaii
+[Kawaii](aes/Kawaii/SKILL.md) · [Gyaru](aes/Gyaru/SKILL.md) · [Harajuku Fashion](aes/Harajuku_Fashion/SKILL.md) · [Lolita](aes/Lolita/SKILL.md) · [Animecore](aes/Animecore/SKILL.md) · [Fairycore](aes/Fairycore/SKILL.md) · [Kidcore](aes/Kidcore/SKILL.md) · [Mermaidcore](aes/Mermaidcore/SKILL.md) · [Angelcore](aes/Angelcore/SKILL.md) · [Devilcore](aes/Devilcore/SKILL.md)
+
+### Dark & Alt
+[Goth](aes/Goth/SKILL.md) · [Grunge](aes/Grunge/SKILL.md) · [Emo](aes/Emo/SKILL.md) · [Scene](aes/Scene/SKILL.md) · [Punk](aes/Punk/SKILL.md) · [Dark Romanticism](aes/Dark_Romanticism/SKILL.md) · [Whimsigothic](aes/Whimsigothic/SKILL.md)
+
+### Feminine & Trend
+[Coquette](aes/Coquette/SKILL.md) · [Barbiecore](aes/Barbiecore/SKILL.md) · [Old Money](aes/Old_Money/SKILL.md) · [Mob Wife](aes/Mob_Wife/SKILL.md) · [Clean Girl](aes/Clean_Girl/SKILL.md) · [That Girl](aes/That_Girl/SKILL.md) · [Vanilla Girl](aes/Vanilla_Girl/SKILL.md) · [Soft Girl](aes/Soft_Girl/SKILL.md) · [VSCO Girl](aes/VSCO_Girl/SKILL.md) · [Balletcore](aes/Balletcore/SKILL.md) · [Tenniscore](aes/Tenniscore/SKILL.md) · [Blokecore](aes/Blokecore/SKILL.md) · [Gorpcore](aes/Gorpcore/SKILL.md) · [Normcore](aes/Normcore/SKILL.md)
+
+### Art & Design
+[Minimalism](aes/Minimalism/SKILL.md) · [Maximalism](aes/Maximalism/SKILL.md) · [Brutalism](aes/Brutalism/SKILL.md) · [Art Deco](aes/Art_Deco/SKILL.md) · [Art Nouveau](aes/Art_Nouveau/SKILL.md) · [Baroque](aes/Baroque/SKILL.md) · [Rococo](aes/Rococo/SKILL.md)
+
+## All Styles
+
+The complete catalog of 1,040 styles is available as a CSV: [`assets/styles.csv`](assets/styles.csv) (columns: `name`, `location`, `description`).
 
 ## Directory Layout
 
