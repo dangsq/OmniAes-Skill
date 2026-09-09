@@ -25,7 +25,7 @@ If you use, modify, or distribute this dataset, you must:
 If you use this dataset in research, please cite:
 
 ```
-OmniAes: Aesthetic Knowledge Base. Content summarized from aesthetics.fandom.com.
+OmniAesthetic: Aesthetic Knowledge Base. Content summarized from aesthetics.fandom.com.
 Available under CC-BY-SA 3.0.
 ```
 

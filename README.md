@@ -1,6 +1,6 @@
-# OmniAes — Aesthetic Styles Knowledge Base
+# OmniAesthetic — Aesthetic Styles Knowledge Base
 
-OmniAes is an open knowledge base of **1,040 aesthetic styles** (互联网美学 / 视觉风格 / 美学百科), each summarized into a structured `SKILL.md` document derived from [Aesthetics Wiki](https://aesthetics.fandom.com). Every entry documents a style's color palette, key motifs, mood, generation guidance, and how to tell it apart from visually similar styles — useful for image generation, style classification, visual retrieval, and research.
+OmniAesthetic is an open knowledge base of **1,040 aesthetic styles** (互联网美学 / 视觉风格 / 美学百科), each summarized into a structured `SKILL.md` document derived from [Aesthetics Wiki](https://aesthetics.fandom.com). Every entry documents a style's color palette, key motifs, mood, generation guidance, and how to tell it apart from visually similar styles — useful for image generation, style classification, visual retrieval, and research.
 
 ## What's Inside
 
@@ -10,11 +10,17 @@ OmniAes is an open knowledge base of **1,040 aesthetic styles** (互联网美学
 | SKILL.md documents | 1,040 |
 | License | CC-BY-SA 3.0 |
 
+## Companion Image Dataset
+
+A synthetic image dataset built from this knowledge base is available on Hugging Face:
+
+**[dangsq123/OmniAesthetic](https://huggingface.co/datasets/dangsq123/OmniAesthetic)** — 31,950 AI-generated images across 1,065 styles (FLUX.2 [dev], 512×512, 30 images per style), each paired with its generation prompt.
+
 ## Moodboard
 
 All images are AI-generated from prompts based on each style's `SKILL.md`.
 
-![OmniAes aesthetic style moodboard](assets/moodboard.png)
+![OmniAesthetic aesthetic style moodboard](assets/moodboard.png)
 
 ## Popular Aesthetics
 
@@ -48,7 +54,7 @@ The complete catalog of 1,040 styles is available as a CSV: [`assets/styles.csv`
 ## Directory Layout
 
 ```
-OmniAes/
+OmniAesthetic/
 ├── SKILL.md              # Project-level skill document
 ├── README.md             # This file
 ├── assets/

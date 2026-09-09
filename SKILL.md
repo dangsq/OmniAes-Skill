@@ -1,6 +1,6 @@
 ---
 name: omni-aes
-description: OmniAes is a knowledge base of 1,040 aesthetic styles, each summarized from Aesthetics Wiki page text into structured SKILL.md documents containing visual identity rules, generation guidance, and discrimination cues.
+description: OmniAesthetic is a knowledge base of 1,040 aesthetic styles, each summarized from Aesthetics Wiki page text into structured SKILL.md documents containing visual identity rules, generation guidance, and discrimination cues.
 metadata:
   source: https://aesthetics.fandom.com
   total_styles: 1040
@@ -10,9 +10,9 @@ metadata:
   text_license: CC-BY-SA 3.0 (Aesthetics Wiki community content)
 ---
 
-# OmniAes — Aesthetic Knowledge Base
+# OmniAesthetic — Aesthetic Knowledge Base
 
-OmniAes is a curated collection of **1,040 aesthetic styles** summarized from [Aesthetics Wiki](https://aesthetics.fandom.com), each equipped with a structured SKILL.md document containing visual identity rules, generation guidance, and discrimination cues.
+OmniAesthetic is a curated collection of **1,040 aesthetic styles** summarized from [Aesthetics Wiki](https://aesthetics.fandom.com), each equipped with a structured SKILL.md document containing visual identity rules, generation guidance, and discrimination cues.
 
 ## Structure
 
